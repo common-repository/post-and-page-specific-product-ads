@@ -1,0 +1,286 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post and Page Specific Product Ads\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-13 18:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Description of the plugin
+msgid ""
+"Advertise your products on your blog. This plugin allows you to select which "
+"products to show in a particular post, page or category."
+msgstr ""
+
+#: admin/class-papspa-settings.php:88
+msgid "Button text"
+msgstr ""
+
+#: includes/class-papspa-widget.php:168
+msgid "Button text:"
+msgstr ""
+
+#: includes/views/papspa_category_form.php:23
+#: includes/views/papspa_metabox.php:24
+msgid "Categories"
+msgstr ""
+
+#: includes/views/papspa_category_form.php:38
+#: includes/views/papspa_metabox.php:34
+msgid "Clear stats"
+msgstr ""
+
+#: admin/class-papspa-admin.php:201 admin/class-papspa-admin.php:225
+#: admin/class-papspa-admin.php:247
+msgid "Clicks"
+msgstr ""
+
+#: admin/class-papspa-settings.php:235
+msgid ""
+"Default \"Read More\" button text. If you want this text translated leave it "
+"blank and edit the translation files."
+msgstr ""
+
+#: admin/class-papspa-settings.php:95
+msgid "Default behavior"
+msgstr ""
+
+#: admin/class-papspa-settings.php:41
+msgid "Default Settings"
+msgstr ""
+
+#: admin/class-papspa-settings.php:81
+msgid "Description length"
+msgstr ""
+
+#: includes/class-papspa-widget.php:172
+msgid "Description length:"
+msgstr ""
+
+#: admin/class-papspa-settings.php:47
+msgid "Display Settings"
+msgstr ""
+
+#: includes/class-papspa.php:251
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-papspa-settings.php:250
+msgid "Don't show anything"
+msgstr ""
+
+#: admin/class-papspa-settings.php:153
+msgid "Enable click tracking"
+msgstr ""
+
+#: admin/class-papspa-settings.php:146
+msgid "Enable view tracking"
+msgstr ""
+
+#. Author of the plugin
+msgid "Grega Radelj"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://grrega.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://grrega.com/projects/post-and-page-specific-product-ads"
+msgstr ""
+
+#: admin/class-papspa-settings.php:102
+msgid "Image size"
+msgstr ""
+
+#: includes/class-papspa-widget.php:176
+msgid "Image size:"
+msgstr ""
+
+#: admin/class-papspa-settings.php:357
+msgid ""
+"Keep old statistics data when updating posts/pages/categories.<br/>If you "
+"uncheck this stats will be reset every time you update the "
+"post/page/category."
+msgstr ""
+
+#: admin/class-papspa-settings.php:160
+msgid "Keep old stats on update"
+msgstr ""
+
+#: admin/class-papspa-settings.php:223
+msgid "Maximum length (number of words) of product description."
+msgstr ""
+
+#. name
+#. Name of the plugin
+#: includes/class-papspa-widget.php:17 includes/views/settings.php:11
+msgid "Post and Page Specific Product Ads"
+msgstr ""
+
+#: post-and-page-specific-product-ads.php:99
+msgid ""
+"Post and Page Specific Product Ads is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: admin/class-papspa-admin.php:51 admin/class-papspa-admin.php:52
+msgid "Post Specific Product Ads"
+msgstr ""
+
+#: admin/class-papspa-admin.php:245
+msgid "Product"
+msgstr ""
+
+#: admin/class-papspa-admin.php:123 admin/class-papspa-admin.php:155
+#: admin/class-papspa-admin.php:178
+msgid "Product ads"
+msgstr ""
+
+#: includes/views/papspa_category_form.php:13
+#: includes/views/papspa_metabox.php:14
+msgid "Products"
+msgstr ""
+
+#: public/class-papspa-public.php:182
+msgid "Read More"
+msgstr ""
+
+#: includes/views/papspa_metabox.php:35
+msgid "Save"
+msgstr ""
+
+#: includes/views/papspa_category_form.php:18
+#: includes/views/papspa_category_form.php:28
+#: includes/views/papspa_metabox.php:19 includes/views/papspa_metabox.php:29
+msgid "Select all"
+msgstr ""
+
+#: includes/views/papspa_category_form.php:19
+#: includes/views/papspa_category_form.php:29
+#: includes/views/papspa_metabox.php:20 includes/views/papspa_metabox.php:30
+msgid "Select none"
+msgstr ""
+
+#: includes/class-papspa-widget.php:19
+msgid "Select which ads to show on a particular post, page, or category."
+msgstr ""
+
+#: admin/class-papspa-settings.php:213
+msgid "Show a \"Read More\" button?"
+msgstr ""
+
+#: admin/class-papspa-settings.php:74
+msgid "Show button"
+msgstr ""
+
+#: includes/class-papspa-widget.php:140
+msgid "Show button:"
+msgstr ""
+
+#: includes/class-papspa-widget.php:132 admin/class-papspa-settings.php:60
+msgid "Show description"
+msgstr ""
+
+#: admin/class-papspa-settings.php:124
+msgid "Show on archive page"
+msgstr ""
+
+#: includes/class-papspa-widget.php:156
+msgid "Show on archive page:"
+msgstr ""
+
+#: admin/class-papspa-settings.php:131
+msgid "Show on blog page"
+msgstr ""
+
+#: includes/class-papspa-widget.php:152
+msgid "Show on blog page:"
+msgstr ""
+
+#: admin/class-papspa-settings.php:117
+msgid "Show on pages"
+msgstr ""
+
+#: includes/class-papspa-widget.php:148
+msgid "Show on pages:"
+msgstr ""
+
+#: admin/class-papspa-settings.php:110
+msgid "Show on posts"
+msgstr ""
+
+#: includes/class-papspa-widget.php:144
+msgid "Show on posts:"
+msgstr ""
+
+#: admin/class-papspa-settings.php:138
+msgid "Show on search page"
+msgstr ""
+
+#: includes/class-papspa-widget.php:160
+msgid "Show on search page:"
+msgstr ""
+
+#: admin/class-papspa-settings.php:67
+msgid "Show price"
+msgstr ""
+
+#: includes/class-papspa-widget.php:136
+msgid "Show price:"
+msgstr ""
+
+#: admin/class-papspa-settings.php:167
+msgid "Show quick stats"
+msgstr ""
+
+#: admin/class-papspa-settings.php:249
+msgid "Show random ads"
+msgstr ""
+
+#: admin/class-papspa-settings.php:254
+msgid "Show random ads if the page/post/category has no ads set?"
+msgstr ""
+
+#: admin/class-papspa-settings.php:53
+msgid "Stats Settings"
+msgstr ""
+
+#: admin/class-papspa-admin.php:241 admin/class-papspa-admin.php:264
+msgid "There are no stats to show"
+msgstr ""
+
+#: admin/class-papspa-settings.php:336
+msgid ""
+"This allows the plugin to show ads with the least amount of views.<br/>If "
+"you uncheck this the plugin will show products randomly."
+msgstr ""
+
+#: admin/class-papspa-settings.php:303
+msgid "This will show random ads on the blog page."
+msgstr ""
+
+#: admin/class-papspa-settings.php:324
+msgid "This will show random ads on the search page."
+msgstr ""
+
+#: admin/class-papspa-settings.php:368
+msgid "This will show total views and clicks on post/page/category list."
+msgstr ""
+
+#: admin/class-papspa-admin.php:200 admin/class-papspa-admin.php:224
+#: admin/class-papspa-admin.php:246
+msgid "Views"
+msgstr ""
+
+#: includes/class-papspa-widget.php:164
+msgid "Widget title:"
+msgstr ""
